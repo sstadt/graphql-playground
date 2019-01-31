@@ -5,7 +5,7 @@ npm install
 npm run dev
 ```
 
-Visit http://localhost:3500 and try the following query in the left pane:
+Visit http://localhost:3500/graphql and try the following query in the left pane:
 
 ```
 query UsersAndFriends {
